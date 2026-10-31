@@ -11,6 +11,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Install ffmpeg for video clips
+        run: |
+          if grep -qs '^video:' src_img/requests/*.txt && ! command -v ffmpeg >/dev/null; then
+            sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+          fi
       - name: Fetch new request batches
         run: |
           set -e

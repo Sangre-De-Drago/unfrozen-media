@@ -1,0 +1,12 @@
+# Washington DC reel - discovery (thumbnails 480 px): historic plans, boundary stones, aerials, Capitol videos
+width: 480
+search: L'Enfant plan 1791 Washington
+search: Ellicott plan of the city of Washington 1792
+search: Territory of Columbia 1793 Ellicott
+search: boundary stone District of Columbia
+search: Washington D.C. International Space Station night
+search: National Mall aerial view Capitol
+search: United States Capitol aerial photograph
+search: filetype:video United States Capitol
+search: filetype:video Capitol dome
+search: filetype:video Washington D.C. aerial

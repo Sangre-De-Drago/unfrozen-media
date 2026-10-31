@@ -1,0 +1,124 @@
+{
+ "meta": [
+  {
+   "title": "File:United States Capitol Dome Restoration.webm",
+   "mime": "video/webm",
+   "duration": 268.781,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/United_States_Capitol_Dome_Restoration.webm/500px--United_States_Capitol_Dome_Restoration.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/9/99/United_States_Capitol_Dome_Restoration.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "w": 1280,
+   "h": 720,
+   "page": "https://commons.wikimedia.org/wiki/File:United_States_Capitol_Dome_Restoration.webm",
+   "license": "Public domain",
+   "artist": "U.S. Capitol",
+   "credit": "YouTube: United States Capitol Dome Restoration – View/save archived versions on archive.org",
+   "date": "2013-10-31",
+   "desc": "The Dome of the U.S. Capitol Building, one of America's great symbols of freedom, needs additional restoration as part of an on-going multi-phased program. This project is a critical step for stopping the current level of deterioration in the Dome's cast iron as well as ensuring the protection of the interior of the Dome and Rotunda. The restoration project includes removal of old paint, repairs t",
+   "width_req": 480,
+   "from": "video: File:United States Capitol Dome Restoration.webm | 5-12",
+   "file": "000_United_States_Capitol_Dome_Restoration.jpg"
+  },
+  {
+   "title": "File:Join the United States Capitol Police - Protective Services Bureau.webm",
+   "mime": "video/webm",
+   "duration": 69.681,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Join_the_United_States_Capitol_Police_-_Protective_Services_Bureau.webm/500px--Join_the_United_States_Capitol_Police_-_Protective_Services_Bureau.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Join_the_United_States_Capitol_Police_-_Protective_Services_Bureau.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "w": 3840,
+   "h": 2160,
+   "page": "https://commons.wikimedia.org/wiki/File:Join_the_United_States_Capitol_Police_-_Protective_Services_Bureau.webm",
+   "license": "Public domain",
+   "artist": "U.S. Capitol Police",
+   "credit": "YouTube: Join the United States Capitol Police - Protective Services Bureau – View/save archived versions on archive.org",
+   "date": "2023-08-08",
+   "desc": "Join the United States Capitol Police - Protective Services Bureau",
+   "width_req": 480,
+   "from": "video: File:Join the United States Capitol Police - Protective Services Bureau.webm | 0-4",
+   "file": "001_Join_the_United_States_Capitol_Police_-_Protective_Services_Bureau.jpg"
+  },
+  {
+   "title": "File:Capitol Dome Restoration Scaffolding Time Lapse.webm",
+   "mime": "video/webm",
+   "duration": 40.958,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Capitol_Dome_Restoration_Scaffolding_Time_Lapse.webm/500px--Capitol_Dome_Restoration_Scaffolding_Time_Lapse.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Capitol_Dome_Restoration_Scaffolding_Time_Lapse.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "w": 1280,
+   "h": 720,
+   "page": "https://commons.wikimedia.org/wiki/File:Capitol_Dome_Restoration_Scaffolding_Time_Lapse.webm",
+   "license": "Public domain",
+   "artist": "U.S. Capitol",
+   "credit": "YouTube: Capitol Dome Restoration Scaffolding Time Lapse – View/save archived versions on archive.org",
+   "date": "2014-11-17",
+   "desc": "Six months of work scaffolding the U.S. Capitol in support of the Capitol Dome Restoration Project in a 30 second time-lapse. Captured from various cameras around the Capitol. More at www.aoc.gov/Dome",
+   "width_req": 480,
+   "from": "video: File:Capitol Dome Restoration Scaffolding Time Lapse.webm | 27-35",
+   "file": "002_Capitol_Dome_Restoration_Scaffolding_Time_Lapse.jpg"
+  }
+ ],
+ "categories": {},
+ "clips": [
+  {
+   "title": "File:United States Capitol Dome Restoration.webm",
+   "clip": "v000_United_States_Capitol_Dome_Restoration_5-12.mp4",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/9/99/United_States_Capitol_Dome_Restoration.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "range": "5-12",
+   "from": "video: File:United States Capitol Dome Restoration.webm | 5-12"
+  },
+  {
+   "title": "File:United States Capitol Dome Restoration.webm",
+   "clip": "v001_United_States_Capitol_Dome_Restoration_44-51.mp4",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/9/99/United_States_Capitol_Dome_Restoration.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "range": "44-51",
+   "from": "video: File:United States Capitol Dome Restoration.webm | 44-51"
+  },
+  {
+   "title": "File:United States Capitol Dome Restoration.webm",
+   "clip": "v002_United_States_Capitol_Dome_Restoration_132-141.mp4",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/9/99/United_States_Capitol_Dome_Restoration.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "range": "132-141",
+   "from": "video: File:United States Capitol Dome Restoration.webm | 132-141"
+  },
+  {
+   "title": "File:United States Capitol Dome Restoration.webm",
+   "clip": "v003_United_States_Capitol_Dome_Restoration_194-203.mp4",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/9/99/United_States_Capitol_Dome_Restoration.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "range": "194-203",
+   "from": "video: File:United States Capitol Dome Restoration.webm | 194-203"
+  },
+  {
+   "title": "File:United States Capitol Dome Restoration.webm",
+   "clip": "v004_United_States_Capitol_Dome_Restoration_210-218.mp4",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/9/99/United_States_Capitol_Dome_Restoration.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "range": "210-218",
+   "from": "video: File:United States Capitol Dome Restoration.webm | 210-218"
+  },
+  {
+   "title": "File:United States Capitol Dome Restoration.webm",
+   "clip": "v005_United_States_Capitol_Dome_Restoration_244-258.mp4",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/9/99/United_States_Capitol_Dome_Restoration.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "range": "244-258",
+   "from": "video: File:United States Capitol Dome Restoration.webm | 244-258"
+  },
+  {
+   "title": "File:Join the United States Capitol Police - Protective Services Bureau.webm",
+   "clip": "v006_Join_the_United_States_Capitol_Police_-_Protective_Services_Bureau_0-4.mp4",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/dc/Join_the_United_States_Capitol_Police_-_Protective_Services_Bureau.webm/Join_the_United_States_Capitol_Police_-_Protective_Services_Bureau.webm.1080p.vp9.webm",
+   "range": "0-4",
+   "from": "video: File:Join the United States Capitol Police - Protective Services Bureau.webm | 0-4"
+  },
+  {
+   "title": "File:Join the United States Capitol Police - Protective Services Bureau.webm",
+   "clip": "v007_Join_the_United_States_Capitol_Police_-_Protective_Services_Bureau_50-58.mp4",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/dc/Join_the_United_States_Capitol_Police_-_Protective_Services_Bureau.webm/Join_the_United_States_Capitol_Police_-_Protective_Services_Bureau.webm.1080p.vp9.webm",
+   "range": "50-58",
+   "from": "video: File:Join the United States Capitol Police - Protective Services Bureau.webm | 50-58"
+  },
+  {
+   "title": "File:Capitol Dome Restoration Scaffolding Time Lapse.webm",
+   "clip": "v008_Capitol_Dome_Restoration_Scaffolding_Time_Lapse_27-35.mp4",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Capitol_Dome_Restoration_Scaffolding_Time_Lapse.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "range": "27-35",
+   "from": "video: File:Capitol Dome Restoration Scaffolding Time Lapse.webm | 27-35"
+  }
+ ]
+}

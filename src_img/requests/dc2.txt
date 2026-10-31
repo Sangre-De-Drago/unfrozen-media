@@ -1,0 +1,26 @@
+# Washington DC reel - full-size plans, maps and photos; contact sheets of the Capitol videos; Chladni's own figures
+width: 4800
+file: File:L'Enfant-McMillan Plan of Washington, DC, Washington, District of Columbia, DC HABS DC,WASH,612- (sheet 3 of 32).tif
+width: 4000
+file: File:L'enfant plan of Washington, D.C..jpg
+file: File:L'Enfant plan.svg
+width: 5000
+file: File:Territory of Columbia. LOC 88694128.tif
+file: File:Iss063e088344 (Sept 15, 2020) --- Like two galaxies nearing each other, this nighttime shot from the International Space Station shows the well-lit cities of Washington, D C (left), Baltimore, Maryland (right) and th.jpg
+file: File:Aerial view of Washington, D.C. It shows the progression of the National Mall, from the U.S. Capitol, right, to the Washington Monument and, in the distance, the Lincoln Memorial LCCN2011633718.tif
+file: File:Washington, D.C. - 2007 aerial view.jpg
+width: 2400
+file: File:District of Columbia boundary stone LCCN2016891629.jpg
+file: File:DC Boundary Stone SW 9 (Columbia Historical Society, 1907).png
+file: File:South Corner Boundary Stone (District of Columbia).jpg
+frames: File:Capitol Dome Restoration Scaffolding Time Lapse.webm | 1
+frames: File:United States Capitol Dome Restoration.webm | 4
+frames: File:Time Lapse of Rotunda Scaffold Installation 2015.webm | 2
+frames: File:New U.S. Capitol Dome Cupola Windows.webm | 4
+frames: File:Join the United States Capitol Police - Protective Services Bureau.webm | 3
+width: 480
+search: Chladni Entdeckungen über die Theorie des Klanges
+search: Chladni figures square plate
+search: filetype:video Washington Monument
+search: filetype:video "National Mall"
+search: filetype:video Capitol dome night

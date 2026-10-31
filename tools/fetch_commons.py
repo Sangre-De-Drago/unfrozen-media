@@ -5,6 +5,7 @@ Request file src_img/requests/<batch>.txt, one entry per line:
   file: <File:Name.jpg>      one file at full width
   width: <px>                thumb width for the lines that follow (default 480)
   video: <File:Name.webm> | <a>-<b>   a silent H.264 clip of seconds a..b (at most 1080 lines), plus its still and licence
+  frames: <File:Name.webm> | <s>      a contact sheet: one small frame every s seconds, row by row (frame k at about k*s + s/2), plus the duration
 Videos found by search: or cat: get only their still frame and licence.
 Writes <batch>/<n>_<name>.jpg, <batch>/v<n>_<name>_<a>-<b>.mp4 and <batch>/meta.json (title, license, artist, credit, date, description, page url)."""
 import json, os, re, sys, time, urllib.parse, urllib.request
@@ -72,6 +73,26 @@ def clip(title, rng, root, n):
         if os.path.getsize(fn) < 90e6: break
     os.remove(tmp)
     return dict(title=title, clip=os.path.basename(fn), source=src, range=rng)
+def frames(title, step, root, n):
+    """a contact sheet of a Commons video: one 320 px frame every <step> seconds (at most 48), with the time on each; returns its duration"""
+    import subprocess, tempfile
+    src = best_source(title)
+    if not src: return dict(title=title, error='no source')
+    tmp = tempfile.mktemp(suffix=os.path.splitext(urllib.parse.urlparse(src).path)[1] or '.webm')
+    req = urllib.request.Request(src, headers={'User-Agent': UA})
+    with urllib.request.urlopen(req, timeout=600) as r, open(tmp, 'wb') as f:
+        while True:
+            b = r.read(1 << 20)
+            if not b: break
+            f.write(b)
+    dur = float(subprocess.run(['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'csv=p=0', tmp], capture_output=True, text=True).stdout.strip() or 0)
+    step = max(float(step or 5), dur / 48.0)
+    name = re.sub(r'[^A-Za-z0-9._-]+', '_', title[5:])[:70]; fn = os.path.join(root, 'f%03d_%s.jpg' % (n, os.path.splitext(name)[0]))
+    subprocess.run(['ffmpeg', '-y', '-loglevel', 'error', '-i', tmp, '-vf',
+                    "fps=1/%.3f,scale=320:-2,tile=6x8" % step,
+                    '-frames:v', '1', '-q:v', '4', fn], check=True)
+    os.remove(tmp)
+    return dict(title=title, sheet=os.path.basename(fn), duration=round(dur, 2), step=round(step, 2), source=src)
 def main(batch):
     root = os.path.join('src_img', batch); os.makedirs(root, exist_ok=True)
     width = 480; seen = []; meta = []; cats = {}; clips = []
@@ -83,6 +104,11 @@ def main(batch):
         if kind == 'video':
             t, _, rng = [s.strip() for s in val.partition('|')]
             try: c = clip(t, rng, root, len(clips))
+            except Exception as e: c = dict(title=t, error=str(e))
+            c['from'] = line; clips.append(c); titles = [t]
+        elif kind == 'frames':
+            t, _, step = [s.strip() for s in val.partition('|')]
+            try: c = frames(t, step, root, len(clips))
             except Exception as e: c = dict(title=t, error=str(e))
             c['from'] = line; clips.append(c); titles = [t]
         elif kind == 'search': titles = search(val)

@@ -1,0 +1,7 @@
+# full-size: Canterbury oculi, Durham rose, St Paul dome
+width: 3600
+file: File:Canterbury Cathedral, south Oculus (37582928966).jpg
+file: File:Canterbury Cathedral, north Oculus (37582929666).jpg
+file: File:The rose window at Durham Cathedral - geograph.org.uk - 2491361.jpg
+file: File:Durham Cathedral - Rose Window - geograph.org.uk - 7346590.jpg
+file: File:Looking up at the dome in St. Paul's Cathedral ^4 - geograph.org.uk - 5492843.jpg

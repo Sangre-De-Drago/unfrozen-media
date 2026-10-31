@@ -1,0 +1,11 @@
+# full-size: north transept rose + night views
+width: 3400
+file: File:North Transept of St. Hilda's Abbey, Whitby, North Yorkshire (O58076).jpg
+file: File:North Transept of Whitby Abbey - geograph.org.uk - 3106233.jpg
+file: File:Whitby Abbey, North Transept - geograph.org.uk - 2859548.jpg
+file: File:Whitby Abbey, North Transept (Looking East) - geograph.org.uk - 2859582.jpg
+file: File:Whitby - A view through the transept of the abbey - geograph.org.uk - 8085515.jpg
+file: File:Whitby - The outside of the north transept of the abbey - geograph.org.uk - 8085552.jpg
+file: File:Whitby Abbey - the North transept - geograph.org.uk - 8199876.jpg
+file: File:Whitby Abbey Illuminated by Night (October 2013).JPG
+file: File:Whitby Abbey by night.jpg

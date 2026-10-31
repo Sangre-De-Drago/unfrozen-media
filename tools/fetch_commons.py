@@ -46,10 +46,11 @@ def cat(c, n=200):
     return t[:n], subs
 def best_source(title):
     """a video's transcode of at most 1080 lines (largest), else the original"""
-    d = get({'action': 'query', 'titles': title, 'prop': 'videoinfo', 'viprop': 'url|size|mime|derivatives'})
+    d = get({'action': 'query', 'titles': title, 'prop': 'videoinfo', 'viprop': 'url|size|mime|derivatives|dimensions'})
     pages = d.get('query', {}).get('pages', [])
     vi = (pages[0].get('videoinfo') or [{}])[0] if pages else {}
     der = [x for x in vi.get('derivatives', []) if x.get('height') and x['height'] <= 1080 and 'video' in x.get('type', '')]
+    if vi.get('url') and vi.get('height') and vi['height'] <= 1080: der.append(dict(src=vi['url'], height=vi['height'] + 0.5, type='video/original'))
     der.sort(key=lambda x: (x['height'], 'mp4' in x.get('type', '')))
     return der[-1]['src'] if der else vi.get('url')
 def clip(title, rng, root, n):

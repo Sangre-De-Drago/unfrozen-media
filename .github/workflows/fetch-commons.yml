@@ -1,0 +1,31 @@
+name: fetch-commons
+on:
+  push:
+    paths: ['src_img/requests/**']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: fetch-commons
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch new request batches
+        run: |
+          set -e
+          todo=""
+          for f in src_img/requests/*.txt; do
+            b=$(basename "$f" .txt)
+            [ -f "src_img/$b/meta.json" ] || todo="$todo $b"
+          done
+          echo "batches:$todo"
+          [ -n "$todo" ] && python3 tools/fetch_commons.py $todo || true
+      - name: Commit images
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add src_img
+          git diff --cached --quiet || git commit -m "Fetch Commons images for $(ls src_img/requests | tr '\n' ' ')"
+          git pull --rebase -q
+          git push

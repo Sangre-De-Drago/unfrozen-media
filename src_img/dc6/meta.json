@@ -1,0 +1,30 @@
+{
+ "meta": [],
+ "categories": {},
+ "clips": [
+  {
+   "tiles": "usgs-imagery 13 39.16 -77.31 38.62 -76.79",
+   "file": "m000_usgs-imagery_z13.jpg",
+   "origin_tile": [
+    2336,
+    3126
+   ],
+   "z": 13,
+   "missing": 0,
+   "credit": "USGS The National Map (public domain)",
+   "from": "tiles: usgs-imagery 13 39.16 -77.31 38.62 -76.79"
+  },
+  {
+   "tiles": "usgs-imagery 15 38.930 -77.050 38.850 -76.968",
+   "file": "m001_usgs-imagery_z15.jpg",
+   "origin_tile": [
+    9370,
+    12531
+   ],
+   "z": 15,
+   "missing": 0,
+   "credit": "USGS The National Map (public domain)",
+   "from": "tiles: usgs-imagery 15 38.930 -77.050 38.850 -76.968"
+  }
+ ]
+}

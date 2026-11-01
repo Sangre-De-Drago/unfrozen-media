@@ -1,0 +1,13 @@
+# Washington DC reel, rework - real bell recordings to sample (CC0 / CC BY-SA, credited in the caption)
+audio: File:Samariter Church bell I (Es) 01.ogg
+audio: File:Samariter Church bell II (g).ogg
+audio: File:Samariter Church bell III (b).ogg
+audio: File:NiederRoden-StMatthias-Glocke1-Engels.ogg
+audio: File:NiederRoden-StMatthias-Glocke2-Josefs.ogg
+audio: File:NiederRoden-StMatthias-Glocke3-Marien.ogg
+audio: File:NiederRoden-StMatthias-Glocke4-Matthias.ogg
+audio: File:Clopot 25T - Catedralei Mântuirii Neamului (București).wav
+audio: File:2011 Christmas bells at Notre-Dame de Paris (excerpt).wav
+audio: File:St. Nicholas Cossack Cathedral church bells chiming - Zabuhailo.ogg
+audio: File:Church bells dying away of St Ursula Cologne.ogg
+audio: File:Campane Dardine - Angelus Mezzogiorno.wav

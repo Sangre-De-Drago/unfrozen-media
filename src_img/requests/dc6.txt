@@ -1,0 +1,3 @@
+# Washington DC reel, rework - larger satellite views so a portrait frame is filled (USGS The National Map, public domain)
+tiles: usgs-imagery 13 39.16 -77.31 38.62 -76.79
+tiles: usgs-imagery 15 38.930 -77.050 38.850 -76.968

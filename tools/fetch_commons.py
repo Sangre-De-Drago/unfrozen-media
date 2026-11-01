@@ -5,6 +5,8 @@ Request file src_img/requests/<batch>.txt, one entry per line:
   file: <File:Name.jpg>      one file at full width
   width: <px>                thumb width for the lines that follow (default 480)
   video: <File:Name.webm> | <a>-<b>   a silent H.264 clip of seconds a..b (at most 1080 lines), plus its still and licence
+  audio: <File:Name.ogg> | <a>-<b>   a sound file cut to a..b, as 48 kHz FLAC
+  tiles: <usgs-imagery|usgs-topo> <z> <lat0> <lon0> <lat1> <lon1>   public-domain USGS map tiles stitched into one image
   frames: <File:Name.webm> | <s>      a contact sheet: one small frame every s seconds, row by row (frame k at about k*s + s/2), plus the duration
 Videos found by search: or cat: get only their still frame and licence.
 Writes <batch>/<n>_<name>.jpg, <batch>/v<n>_<name>_<a>-<b>.mp4 and <batch>/meta.json (title, license, artist, credit, date, description, page url)."""
@@ -27,7 +29,7 @@ def info(titles, width):
         d = get({'action': 'query', 'titles': '|'.join(titles[i:i + 40]), 'prop': 'imageinfo', 'iiprop': 'url|size|mime|extmetadata', 'iiurlwidth': width})
         for p in d.get('query', {}).get('pages', []):
             ii = (p.get('imageinfo') or [{}])[0]; em = ii.get('extmetadata', {}); mime = ii.get('mime', '')
-            if not ii or not (mime.startswith('image/') or mime.startswith('video/') or mime == 'application/ogg'): continue
+            if not ii or not (mime.startswith('image/') or mime.startswith('video/') or mime.startswith('audio/') or mime == 'application/ogg'): continue
             out.append(dict(title=p['title'], mime=mime, duration=ii.get('duration'), thumb=ii.get('thumburl') or ii.get('url'), orig=ii.get('url'), w=ii.get('width'), h=ii.get('height'),
                             page=ii.get('descriptionurl'), license=strip(em.get('LicenseShortName', {}).get('value')),
                             artist=strip(em.get('Artist', {}).get('value')), credit=strip(em.get('Credit', {}).get('value')),
@@ -94,6 +96,45 @@ def frames(title, step, root, n):
                     '-frames:v', '1', '-q:v', '4', fn], check=True)
     os.remove(tmp)
     return dict(title=title, sheet=os.path.basename(fn), duration=round(dur, 2), step=round(step, 2), source=src)
+def audio(title, rng, root, n):
+    """a Commons sound file (original), cut to seconds a..b and stored as 48 kHz FLAC"""
+    import subprocess, tempfile
+    d = get({'action': 'query', 'titles': title, 'prop': 'imageinfo', 'iiprop': 'url|mime'})
+    pages = d.get('query', {}).get('pages', []); ii = (pages[0].get('imageinfo') or [{}])[0] if pages else {}
+    src = ii.get('url')
+    if not src: return dict(title=title, error='no source')
+    tmp = tempfile.mktemp(suffix=os.path.splitext(urllib.parse.urlparse(src).path)[1] or '.ogg')
+    req = urllib.request.Request(src, headers={'User-Agent': UA})
+    with urllib.request.urlopen(req, timeout=600) as r, open(tmp, 'wb') as f: f.write(r.read())
+    a, b = (rng.split('-') + [''])[:2] if rng else ('0', '')
+    name = re.sub(r'[^A-Za-z0-9._-]+', '_', title[5:])[:70]; fn = os.path.join(root, 'a%03d_%s.flac' % (n, os.path.splitext(name)[0]))
+    cmd = ['ffmpeg', '-y', '-loglevel', 'error', '-ss', a or '0', '-i', tmp] + (['-t', str(float(b) - float(a or 0))] if b else []) + ['-ar', '48000', '-c:a', 'flac', fn]
+    subprocess.run(cmd, check=True); os.remove(tmp)
+    return dict(title=title, audio=os.path.basename(fn), source=src, range=rng)
+TILESETS = {'usgs-imagery': 'https://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryOnly/MapServer/tile/{z}/{y}/{x}',
+            'usgs-topo': 'https://basemap.nationalmap.gov/arcgis/rest/services/USGSTopo/MapServer/tile/{z}/{y}/{x}'}
+def tiles(spec, root, n):
+    """public-domain USGS National Map tiles stitched into one image: '<set> <z> <lat0> <lon0> <lat1> <lon1>'"""
+    import math, io
+    from PIL import Image
+    ts, z, la0, lo0, la1, lo1 = spec.split(); z = int(z); la0, lo0, la1, lo1 = map(float, (la0, lo0, la1, lo1))
+    def xy(lat, lon):
+        k = 2 ** z; x = (lon + 180) / 360 * k; y = (1 - math.log(math.tan(math.radians(lat)) + 1 / math.cos(math.radians(lat))) / math.pi) / 2 * k; return x, y
+    x0, y0 = xy(max(la0, la1), min(lo0, lo1)); x1, y1 = xy(min(la0, la1), max(lo0, lo1))
+    tx0, ty0, tx1, ty1 = int(x0), int(y0), int(x1), int(y1)
+    img = Image.new('RGB', ((tx1 - tx0 + 1) * 256, (ty1 - ty0 + 1) * 256)); miss = 0
+    for ty in range(ty0, ty1 + 1):
+        for tx in range(tx0, tx1 + 1):
+            url = TILESETS[ts].format(z=z, x=tx, y=ty)
+            try:
+                req = urllib.request.Request(url, headers={'User-Agent': UA})
+                with urllib.request.urlopen(req, timeout=60) as r: t = Image.open(io.BytesIO(r.read())).convert('RGB')
+                img.paste(t, ((tx - tx0) * 256, (ty - ty0) * 256))
+            except Exception as e: miss += 1
+            time.sleep(0.05)
+    fn = os.path.join(root, 'm%03d_%s_z%d.jpg' % (n, ts, z)); img.save(fn, quality=92)
+    return dict(tiles=spec, file=os.path.basename(fn), origin_tile=[tx0, ty0], z=z, missing=miss,
+                credit='USGS The National Map (public domain)')
 def main(batch):
     root = os.path.join('src_img', batch); os.makedirs(root, exist_ok=True)
     width = 480; seen = []; meta = []; cats = {}; clips = []
@@ -112,6 +153,15 @@ def main(batch):
             try: c = frames(t, step, root, len(clips))
             except Exception as e: c = dict(title=t, error=str(e))
             c['from'] = line; clips.append(c); titles = [t]
+        elif kind == 'audio':
+            t, _, rng = [s_.strip() for s_ in val.partition('|')]
+            try: c = audio(t, rng, root, len(clips))
+            except Exception as e: c = dict(title=t, error=str(e))
+            c['from'] = line; clips.append(c); titles = [t]
+        elif kind == 'tiles':
+            try: c = tiles(val, root, len(clips))
+            except Exception as e: c = dict(tiles=val, error=str(e))
+            c['from'] = line; clips.append(c); continue
         elif kind == 'search': titles = search(val)
         elif kind == 'cat': titles, subs = cat(val); cats[val] = subs
         elif kind == 'file': titles = [val]

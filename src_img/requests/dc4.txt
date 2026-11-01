@@ -1,0 +1,9 @@
+# Washington DC reel, rework - today's city (USGS The National Map, public domain) and real bell recordings (discovery)
+tiles: usgs-imagery 13 39.02 -77.20 38.77 -76.89
+tiles: usgs-imagery 15 38.905 -77.040 38.872 -76.985
+tiles: usgs-topo 13 39.02 -77.20 38.77 -76.89
+tiles: usgs-topo 15 38.905 -77.040 38.872 -76.985
+search: filetype:audio church bell
+search: filetype:audio Glocke Einzelschlag
+search: filetype:audio carillon
+search: filetype:audio bell peal

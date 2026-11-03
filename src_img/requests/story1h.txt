@@ -1,0 +1,15 @@
+# story for the 1-hour bells video: Chartres north rose (chapter 5:00) - full-size rose, facade, parvis, nave
+width: 3000
+file: File:Chartres Notre-Dame WindowsNR 018 2912.jpg
+file: File:Chartres - Cathédrale 5.JPG
+file: File:Cathédrale Notre-Dame (43836923554).jpg
+file: File:Chartres Cathédrale Notre-Dame de Chartres Innen Langhaus Südwest 1.jpg
+file: File:La cathédrale au couchant.jpg
+# real Chladni plates (photos) and any free videos of people at Chartres or of a plate with sand
+width: 1600
+search: Chladni plate sand
+search: Chladni figure plate photograph
+width: 640
+search: Chartres cathedral filetype:video
+search: Chartres cathédrale parvis filetype:video
+search: Chladni plate filetype:video

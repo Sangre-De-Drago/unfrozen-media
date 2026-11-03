@@ -1,0 +1,6 @@
+# B. L. Rice 1902 elevation drawing (public domain) + context photos for the two single-pillar reels
+width: 4000
+file: File:Pillars Belur Halebid.jpg
+file: File:Lathe-Turned Pillars of Parshvanatha Basadi, Halebidu, Karnataka.jpg
+file: File:Chennakeshava temple, Belur bhvrvb2k23 (932).jpg
+file: File:Chennakeshava temple, Belur bhvrvb2k23 (926).jpg

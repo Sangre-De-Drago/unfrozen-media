@@ -1,0 +1,19 @@
+# Hoysala temples: carved and lathe-turned pillars - discovery (thumbnails 480 px)
+width: 480
+cat: Category:Hoysaleswara Temple
+cat: Category:Chennakeshava Temple, Belur
+cat: Category:Pillars of Hoysaleswara Temple
+cat: Category:Pillars of Chennakeshava Temple, Belur
+cat: Category:Lathe-turned pillars
+search: Hoysaleswara temple pillars interior
+search: Halebidu lathe turned pillar
+search: Belur Chennakeshava pillar interior
+search: Belur Narasimha pillar
+search: Hoysala pillar mantapa
+search: Hoysala temple polished pillars
+search: Somanathapura Kesava temple pillars
+search: Hoysala lathe turned column
+search: Halebidu temple interior
+search: Belur temple navaranga pillars
+search: filetype:video Halebidu
+search: filetype:video Belur temple

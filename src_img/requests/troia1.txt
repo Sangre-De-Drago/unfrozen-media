@@ -1,0 +1,16 @@
+# Troia Cathedral (Apulia): rose window with 11 spokes - discovery (thumbnails 480 px)
+width: 480
+cat: Category:Troia Cathedral
+cat: Category:Rose window of Troia Cathedral
+cat: Category:Façade of Troia Cathedral
+search: Troia cathedral rose window
+search: Troia rosone cattedrale
+search: Concattedrale di Troia facciata
+search: Cattedrale di Santa Maria Assunta Troia
+search: Troia Foggia piazza
+search: Troia Puglia
+search: filetype:video Troia Puglia
+search: filetype:video Puglia piazza
+search: filetype:video Apulia town square people
+search: filetype:video Lucera
+search: filetype:video Italian town square people walking

@@ -1,0 +1,20 @@
+# Better photos of the two pillars: frontal, clean silhouette (thumbnails 480 px)
+width: 480
+cat: Category:Interior of Hoysaleswara Temple
+cat: Category:Interior of Chennakeshava Temple, Belur
+cat: Category:Narasimha pillar, Belur
+cat: Category:Pillars in Hoysaleswara Temple
+cat: Category:Pillars in Chennakeshava Temple, Belur
+search: Narasimha pillar Belur
+search: Belur pillar navaranga
+search: Belur Chennakeshava interior pillar
+search: Halebidu pillar
+search: Halebid pillar
+search: Hoysaleswara interior pillar
+search: Hoysaleswara lathe pillar
+search: lathe turned pillar Karnataka
+search: Hoysala pillar
+search: soapstone pillar Halebidu
+search: filetype:drawing Hoysala pillar
+search: Hoysala pillar drawing
+search: Hoysala pillar profile elevation

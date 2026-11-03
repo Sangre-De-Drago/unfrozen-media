@@ -1,0 +1,13 @@
+# Troia Cathedral: full-size photos of the rose and the facade
+width: 4000
+file: File:Rosone della Cattedrale di Troia.jpg
+file: File:S03 06 01 026 image 3285.jpg
+file: File:S03 06 01 026 image 3284.jpg
+file: File:Troia - Concattedrale di Troia - Nucleo Studio 007.jpg
+file: File:Troia - Concattedrale di Troia - Nucleo Studio 009.jpg
+file: File:Cattedrale di Troia, facciata -FG2.jpg
+file: File:Concattedrale di Troia.JPG
+file: File:Cattedrale di Troia 09.jpg
+file: File:Troia (FG) - duomo - vista notturna.jpg
+file: File:Puglia Troia2 tango7174.jpg
+file: File:Troia - Concattedrale di Troia - Nucleo Studio.jpg

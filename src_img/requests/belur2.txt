@@ -1,0 +1,27 @@
+# Belur video: full-width photos for the YouTube study (1920 x 1080) and the final reel
+width: 2400
+file: File:Belur, Chennakeshava Temple (9882102615).jpg
+file: File:Belur, Chennakeshava Temple, gopuram (9882147265).jpg
+file: File:Spectacular view of Chennakesava Temple.jpg
+file: File:Narasimha Pillar , Chennakesava Temple , Belur 05.jpg
+file: File:Mohini Pillar (Sthambha Buttalika) inside the Chennakesava Temple at Belur.jpg
+file: File:Chennakeshava temple, Belur bhvrvb2k23 (933).jpg
+file: File:Chennakeshava temple, Belur bhvrvb2k23 (934).jpg
+file: File:Chennakeshava temple, Belur bhvrvb2k23 (907).jpg
+file: File:Chennakeshava temple, Belur bhvrvb2k23 (931).jpg
+file: File:Hanging pillar Kesava temple.JPG
+file: File:Belur, Chennakeshava Temple, beauty and mirror (9882265124).jpg
+file: File:Ornate Lathe-Turned Pillars of Chennakeshava Temple, Belur, Karnataka.jpg
+file: File:Lathe turned pillars at Chennakeshava temple in Belur.jpg
+file: File:Reliefs, Sculptures, Interior and Exterior Wall of Chennakeshva Temple DSCN6829 26.jpg
+file: File:Reliefs, Sculptures, Interior and Exterior Wall of Chennakeshva Temple DSCN6829 27.jpg
+file: File:Sthambha buttalika sculpture in Chennakesava temple at Belur.jpg
+file: File:Shilabaalika on pillar bracket in Chennakeshava Temple at Belur1.jpg
+file: File:Ornate lathe turned pillars Chennakeshava temple, Belur.jpg
+file: File:Richly ornated pillar inside the Sanctum. Chennakesava Temple , Belur.jpg
+file: File:Samudra manthan, the pillar of Vedic mythologies at Belur Hindu temple.jpg
+file: File:Belur - Chennakesava Temple (30478143854).jpg
+file: File:Chennakeshava temple, Belur bhvrvb2k23 (117).jpg
+file: File:Pillar Chennakesava Temple Belur 2122.JPG
+file: File:Garuda Stambha (Pillar) at Chennakeshava Temple, Belur, Karnataka.jpg
+file: File:Ornamental Shrine Projection at Chennakeshava Temple, Belur, Karnataka.jpg

@@ -1,0 +1,3 @@
+# Strasbourg facade for the location shot (full size)
+width: 2400
+file: File:Strasbourg, France, the Cathedral.jpg

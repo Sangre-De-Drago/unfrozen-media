@@ -1,0 +1,11 @@
+# Strasbourg Cathedral: rose windows, medieval facade drawings, oldest engravings and photos, war damage (1870, 1944) - discovery (thumbnails 480 px)
+width: 480
+cat: Category:Rose window of Strasbourg Cathedral
+cat: Category:Rose windows of Strasbourg Cathedral
+cat: Category:West rose window of Strasbourg Cathedral
+cat: Category:Architectural drawings of Strasbourg Cathedral
+search: Strasbourg cathédrale rosace
+search: Straßburger Münster Riss B
+search: Strasbourg cathedral 1870 bombardment
+search: Strasbourg cathédrale gravure façade
+search: Straßburger Münster Westfassade Rose

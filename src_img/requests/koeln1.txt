@@ -1,0 +1,19 @@
+# Cologne Cathedral (Koelner Dom): are there rose windows, where, and the oldest images of them - discovery (thumbnails 480 px)
+width: 480
+cat: Category:Rose windows of Cologne Cathedral
+cat: Category:Windows of Cologne Cathedral
+cat: Category:West facade of Cologne Cathedral
+cat: Category:South transept facade of Cologne Cathedral
+cat: Category:North transept facade of Cologne Cathedral
+cat: Category:Plan F of Cologne Cathedral
+search: Kölner Dom Fensterrose
+search: Kölner Dom Rosette
+search: Cologne Cathedral rose window
+search: Kölner Dom Fassadenriss
+search: Kölner Dom Boisserée Ansichten Risse
+search: Kölner Dom Südportal Fassade
+search: Kölner Dom Nordquerhaus Fassade
+search: Kölner Dom 1880 Fotografie
+search: Kölner Dom 1856 Fotografie Michiels
+search: Kölner Dom Querhaus Zwirner Entwurf
+search: Kölner Dom 1945 Zerstörung

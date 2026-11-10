@@ -1,0 +1,9 @@
+# Strasbourg west rose: full-size frontal interior photos for measuring; facade views for the location shot
+width: 4000
+file: File:Rosace de la cathédrale de Strasbourg.jpg
+file: File:RosaceStrasbourg.JPG
+file: File:Strasbourg - La rosace de la cathédrale (14218708987).jpg
+file: File:Strasbourg grande rosace cathédrale Notre-Dame juin 2015.jpg
+width: 640
+search: Cathédrale Notre-Dame de Strasbourg façade occidentale
+search: Strasbourg cathedral west facade place de la cathédrale

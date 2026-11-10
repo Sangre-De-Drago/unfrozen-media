@@ -1,0 +1,21 @@
+# Cologne Cathedral: oldest images of the facades (where a rose could be) at full size; Immerath "cathedral" St. Lambertus (demolished 2018): rose window, oldest photos
+width: 2400
+file: File:Sulpiz Boisserée, Ansichten, Risse und einzelne Theile des Doms von Köln, Tafel 4.jpg
+file: File:Eduard Gerhardt Kölner Dom.jpg
+file: File:Creifelds, Theodor - Kölner Dom, Südseite, Türme eingerüstet, 1880 (uncropped).jpg
+search: Riss F Kölner Dom Fassadenplan
+search: Fassadenplan F Koelner Dom
+search: Michiels Kölner Dom 1855
+search: Kölner Dom Westfenster Maßwerk
+search: Kölner Dom Südquerhaus Fassade
+search: Kölner Dom Nordquerhaus Fassade
+search: Cologne Cathedral west facade
+width: 1600
+cat: Category:St. Lambertus (Immerath)
+cat: Category:St. Lambertus (Erkelenz-Immerath)
+cat: Category:Demolition of St. Lambertus (Immerath)
+search: Immerather Dom
+search: Immerath St. Lambertus
+search: Immerath Lambertus Rosette
+search: Immerath Kirche Postkarte
+search: Immerath historisch

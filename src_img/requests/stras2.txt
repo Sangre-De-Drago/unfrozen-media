@@ -1,0 +1,19 @@
+# Strasbourg Cathedral: full-size oldest drawings, engravings and photos of the west rose (before/after 1870 and 1944), plus modern frontal views for measuring
+width: 2400
+file: File:Dessin A'.jpg
+file: File:Strassburg Steinbach.png
+file: File:Jean Gerlach de Steinbach, Dessin 5.jpg
+file: File:Cathédrale de Strasbourg d'après daguerréotype.jpg
+file: File:Cathédrale Strasbourg - façade Sud partie centrale - Le Secq 1851.jpg
+file: File:Strasbourg, vue générale avec la cathédrale de face.jpg
+file: File:Bombardment of Strasbourg.jpg
+file: File:Strassburg vom Steintor aus 28 Sept 1870.jpg
+file: File:Rosace de la façade ouest de la cathédrale de Strasbourg - btv1b10202495c.jpg
+file: File:Die grosse Rosette ueber dem Hauptportal - btv1b102192297.jpg
+file: File:Strasbourg, cathédrale (façade occidentale vue de la rue Mercière) - btv1b532351877.jpg
+file: File:Cathédrale de Strasbourg - la grande rose de la façade occidentale - btv1b102142426.jpg
+file: File:Strasbourg, Cathédrale, Portail principal, la rosace (TR) - btv1b10207203q.jpg
+file: File:Strasburg muenster rosette westfassade.jpg
+file: File:0 Rosace ouest façade Notre-Dame de Strasbourg.jpg
+file: File:Cathédrale Notre-Dame - extérieur - rosace (Strasbourg).jpg
+file: File:Rosace cathedrale strasbourg.jpg

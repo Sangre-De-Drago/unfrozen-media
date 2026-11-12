@@ -1,0 +1,25 @@
+# Bourtange star fort (Groningen, NL): old plans 1593-1800s, the 1742 plan used for the reconstruction, aerials then/now, the square and buildings inside
+width: 2400
+search: Bourtange Atlas van Loon
+search: Bourtange 1742
+search: Bourtange plattegrond
+search: Bourtange kaart
+search: Boertange
+search: Bourtange Blaeu
+search: Bourtange fortificatie
+search: Bourtange schans
+search: Bourtange Coehoorn
+search: Bourtange 17th century map
+cat: Category:Maps of Bourtange
+cat: Category:History of Bourtange
+width: 1800
+search: Bourtange luchtfoto
+search: Bourtange aerial
+search: Vesting Bourtange
+search: Bourtange from above
+search: Marktplein Bourtange
+search: Bourtange kerk
+search: Bourtange molen
+search: Bourtange synagoge
+search: Bourtange commandeurswoning
+cat: Category:Bourtange

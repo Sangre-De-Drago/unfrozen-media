@@ -1,0 +1,11 @@
+# Silenced bells: wartime bell cemeteries and requisitions (WWI, WWII), medieval storm bells (fulgura frango), Liberty Bell hiding place 1777
+width: 1600
+search: Glockenfriedhof Hamburg
+search: Glockenfriedhof
+search: Glockenabnahme 1917
+search: Glockenabnahme 1942
+search: Kirchenglocken Ablieferung Krieg
+search: bell cemetery Hamburg 1947
+search: fulgura frango
+search: vivos voco mortuos plango
+search: Zion Reformed Church Allentown Liberty Bell

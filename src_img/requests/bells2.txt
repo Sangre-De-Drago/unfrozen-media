@@ -1,0 +1,23 @@
+# Investigation reels: broken, fallen and never-rung bells; the banned Encyclopédie and its bell-founding plates; the Liberty Bell's crack in old photos; the 1877 phonograph
+width: 1800
+search: Lübeck Marienkirche Glocken zerstört
+search: Marienkirche Lübeck zersprungene Glocken
+cat: Category:Broken bells in St. Mary's Church (Lübeck)
+search: Lübeck Marienkirche Gedenkkapelle Glocken
+search: Tsar Bell
+cat: Category:Tsar Bell
+search: Царь-колокол 1900
+search: Encyclopédie fonderie des cloches planche
+search: Encyclopédie Diderot frontispice
+search: Encyclopédie titre 1751
+search: Diderot Van Loo portrait
+search: Liberty Bell crack 1915
+search: Liberty Bell 1876 photograph
+search: Liberty Bell Panama-Pacific 1915 train
+search: Liberty Bell crack close up
+search: Edison phonograph 1877
+search: Hemony bell
+search: Hemony carillon
+search: broken church bell
+search: Glocke zersprungen
+search: cracked bell

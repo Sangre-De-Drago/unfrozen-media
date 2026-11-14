@@ -1,0 +1,4 @@
+# Khajuraho part 3: the files that did not arrive in part 2
+width: 2600
+file: File:Le shikhara du temple de Kandarîya Mahadeva (Khajuraho, Inde) - Flickr - dalbera.jpg
+file: File:Kandariya Mahadeva Temple, Khajuraho, India 10.jpg

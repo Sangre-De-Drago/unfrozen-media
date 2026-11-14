@@ -1,0 +1,6 @@
+# Angkor Wat part 3: the files that did not arrive in part 2
+width: 2600
+file: File:Facade of Angkor Wat.jpg
+file: File:Louis Delaporte-Angkor Vat1.jpeg
+file: File:Louis Delaporte-Angkor Vat9.JPG
+file: File:Western facade of the Temple of Ongau Wat ILN0-1868-0201-0004.jpg

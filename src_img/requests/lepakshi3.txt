@@ -1,0 +1,7 @@
+# Lepakshi part 3: the files that did not arrive in part 2 (hanging pillar, hall pillars)
+width: 2600
+file: File:83-LepakshiPillar.jpg
+file: File:84-LepakshiPillar.jpg
+file: File:Hanging Pillar, Veerabhadra Temple, Lepakshi, Andhra Pradesh, India (2006).jpg
+file: File:Pillars at VeerbhadraSwamy temple.jpg
+file: File:Lepakshi pillars 20.jpg

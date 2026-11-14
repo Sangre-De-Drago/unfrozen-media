@@ -1,0 +1,30 @@
+# Borobudur part 2: full-size versions of the chosen drawings (Wilsen / Mieling, 1873), Van Kinsbergen photos (1873), modern stupa photos and aerials; more old plates and the chattra
+width: 2600
+file: File:COLLECTIE TROPENMUSEUM Litho voorstellende bouwkunstige bijzonderheden van de Borobudur TMnr 4108-462.jpg
+file: File:COLLECTIE TROPENMUSEUM Litho voorstellende doorsnede van de Borobudur TMnr 4108-455.jpg
+file: File:COLLECTIE TROPENMUSEUM Litho voorstellende doorsnede van de Borobudur TMnr 4108-456.jpg
+file: File:COLLECTIE TROPENMUSEUM Litho voorstellende zuidzijde van de Borobudur TMnr 4108-459.jpg
+file: File:COLLECTIE TROPENMUSEUM Litho voorstellende deel van een plattegrond van de Borobudur TMnr 4108-453.jpg
+file: File:COLLECTIE TROPENMUSEUM Litho voorstellende bouwkunstige bijzonderheden van de Borobudur TMnr 4108-461.jpg
+file: File:COLLECTIE TROPENMUSEUM Stupa's op het Borobudur tempelcomplex TMnr 60013980.jpg
+file: File:Borobudur photograph by van kinsbergen.jpg
+file: File:Zicht op de noordzijde van de Borobudur Buitenkant Noordzijde (titel op object), RP-F-2005-158-40.jpg
+file: File:Zicht op de noordzijde van de Borobudur met een aantal van de reliëfs en Boeddha nissen Gezicht op den Boro-boedoer genomen vanuit de pasangrahan (titel op object), RP-F-2005-158-41.jpg
+file: File:Borobudur-Temple-Park Indonesia Stupas-of-Borobudur-01.jpg
+file: File:Borobudur-Temple-Park Indonesia Stupas-of-Borobudur-03.jpg
+file: File:Borobudur Upper Terrace 0993.jpg
+file: File:Buddha in the Stupa Borobudur.jpg
+file: File:Panoramic views of Borobudur.jpg
+file: File:Borobudur Magelang.jpg
+file: File:COLLECTIE TROPENMUSEUM Luchtfoto van de Borobudur TMnr 10015636.jpg
+file: File:COLLECTIE TROPENMUSEUM Plattegrond van de Borobudur TMnr 10015639.jpg
+file: File:Borobudur half cross section.png
+file: File:COLLECTIE TROPENMUSEUM Boroboedoer tijdens restauratie onder leiding van kapitein van Erp TMnr 60041864.jpg
+file: File:International cooperation, Borobudur - UNESCO - PHOTO0000003480 0001.tiff
+width: 1000
+search: Boro-Boedoer Leemans 1873
+search: Boro-Boudour Wilsen
+search: Borobudur chattra
+search: Borobudur main stupa 1911
+search: Raffles History of Java Boro Bodo
+search: Borobudur stupa drawing

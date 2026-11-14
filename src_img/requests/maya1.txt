@@ -1,0 +1,9 @@
+# Maya calendar: monuments with calendar glyphs, sites, the Dresden Codex, day signs
+width: 2000
+search: Quirigua stela glyphs
+search: Copan stela hieroglyphs calendar
+search: Tikal Temple I
+search: Dresden Codex Förstemann page
+search: Maya tzolkin day signs glyphs drawing
+search: Maya numerals dots bars
+search: Maya calendar round

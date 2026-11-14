@@ -1,0 +1,15 @@
+# Sun Stone part 2: full-size frontal photographs, the oldest drawings and photographs; the Maya calendar (day signs, wheels, Dresden Codex)
+width: 2600
+file: File:Piedra del Sol en MNA.jpg
+file: File:Piedra del Sol - Sala Mexica del Museo Nacional de Antropología.jpg
+file: File:Nebel Voyage 49 Zodiaco.jpg
+file: File:File-Monolito de la Piedra del Sol (centro).jpg
+file: File:Museo Nacional de Antropología - Wiki takes Antropología 122.jpg
+width: 1600
+search: Piedra del Sol León y Gama 1792
+search: Aztec calendar stone cathedral photograph
+search: Piedra del Sol Catedral Metropolitana
+search: Tzolkin day signs
+search: Maya calendar round wheels
+search: Dresden Codex page
+search: Maya day glyphs

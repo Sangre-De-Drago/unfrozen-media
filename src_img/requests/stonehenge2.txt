@@ -1,0 +1,10 @@
+# Stonehenge part 2: full-size copies of the plan, the photographs and the oldest drawing
+width: 2600
+file: File:Stone Plan.jpg
+file: File:Sarsen Stones at Stonehenge - geograph.org.uk - 1627241.jpg
+file: File:Stonehenge - geograph.org.uk - 1621156.jpg
+file: File:Stonehenge trilithons.jpg
+file: File:2 trilithons at Stonehenge.jpg
+file: File:Stonehenge stones.jpg
+file: File:Stonehenge Lucas de Heere.jpg
+file: File:Stonehenge from the air - Philip Henry Sharpe (Royal Engineers) - 1906.jpg

@@ -1,0 +1,39 @@
+# Kailasa: full-size versions of the photos chosen for the reels (pillar, court, roof lotus, hall, old photo 1913, plans)
+width: 2600
+file: File:Kailasanatha Temple-Ellora-Aurangabad-Maharashtra-IMG 9658.jpg
+file: File:Ellora Cave 16 Pillar.jpg
+file: File:Cave 16, Dhvajastambha (2).jpg
+file: File:Cave 16, Dhvajastambha.jpg
+file: File:Ellora Caves Kailas Temple.jpg
+file: File:KailasaTemple-Cave-16-Ellora-Maharashtra-JM15.jpg
+file: File:DSC05801 Ellora Caves Aurangabad, India.jpg
+file: File:DSC05800 Ellora Caves Aurangabad, India.jpg
+file: File:Ellora caves by Dinesh Valke (50757054118).jpg
+file: File:Rock cut stone sculptures on the mandapa roof of the Kailasa Temple.jpg
+file: File:Kailasa Temple Ellora Caves 1913.jpg
+file: File:Premises of Cave no 16, Ellora, Maharashtra, India 26.jpg
+file: File:Ravana shaking Kailasa Ellora Caves.jpg
+file: File:Premises of Cave no 16, Ellora, Maharashtra, India 03.jpg
+file: File:Premises of Cave no 16, Ellora, Maharashtra, India 14.jpg
+file: File:Ellora caves - Kailasa Temple (cave 16) vrvbajel0924 (686).jpg
+file: File:Ellora Caves, India, Pillars at Kailasa Temple 2.jpg
+file: File:Ellora Caves, India, Pillars at Kailasa Temple.jpg
+file: File:Ellora caves by Dinesh Valke (50757894462).jpg
+file: File:KailasaTemple-Cave-16-Ellora-Maharashtra-JM13.jpg
+file: File:Kailasa Temple at Ellora Caves.jpg
+file: File:Ellora Caves, India, Kailash Temple 2.jpg
+file: File:Ellora-Caves-Hall-in-Kailash-Temple.JPG
+file: File:Ellora, tempio kailasanatha (grotta 16), 750-775 dc ca., tempio di shiva, piano superiore, interno 01.jpg
+file: File:Ellora, tempio kailasanatha (grotta 16), 750-775 dc ca., tempio di shiva, piano superiore, interno 02.jpg
+file: File:Ellora Caves, Maharashtra - panoramio (9).jpg
+file: File:Ellora Caves, Maharashtra - panoramio.jpg
+file: File:Ellora Caves - panoramio (137).jpg
+file: File:Ellora Caves, Maharashtra - panoramio (12).jpg
+file: File:Cave 16 - Inside view (4), Ellora Caves.jpg
+file: File:Paintings within the cave no 16, Ellora,, Maharashtra, india 17.jpg
+file: File:Paintings within the cave no 16, Ellora,, Maharashtra, india 16.jpg
+file: File:Main Mandapa, Cave No. 16 (Kailasa Temple), Ellora Caves - 2.jpg
+file: File:Ellora, tempio kailasanatha (grotta 16), 750-775 dc ca., tempio di shiva, piano superiore, interno 04.jpg
+file: File:Ellora, tempio kailasanatha (grotta 16), 750-775 dc ca., tempio di shiva, piano superiore, interno 05.jpg
+file: File:Ellora, tempio kailasanatha (grotta 16), 750-775 dc ca., tempio di shiva, piano superiore, interno 06.jpg
+file: File:Ground plan of Kailash temple Ellora India.jpg

@@ -1,4 +1,4 @@
-# Maya calendar: monuments with calendar glyphs, sites, the Dresden Codex, day signs
+# Maya calendar: monuments with calendar glyphs, sites, the Dresden Codex, day signs (second try)
 width: 2000
 search: Quirigua stela glyphs
 search: Copan stela hieroglyphs calendar

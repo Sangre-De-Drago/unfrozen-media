@@ -1,0 +1,14 @@
+# Borobudur (Java, Indonesia): perforated stupas, plans and sections, oldest drawings and photographs (1814-1873), aerial views
+width: 900
+search: Borobudur perforated stupa
+search: Borobudur stupa Buddha inside
+search: Borobudur plan
+search: Borobudur cross section
+search: Borobudur Wilsen
+search: Borobudur Kinsbergen 1873
+search: Borobudur Schaefer 1845
+search: Borobudur Raffles 1817
+search: Borobudur aerial
+search: Borobudur Van Erp
+cat: Category:Stupas of Borobudur
+cat: Category:Plans of Borobudur

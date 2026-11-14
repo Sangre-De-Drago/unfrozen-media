@@ -1,0 +1,19 @@
+# Prambanan part 2: full-size elevation drawings of the Shiva temple, Cephas photos of the ruins (1889-1895), restoration 1953, modern views
+width: 2600
+file: File:Prambanan bij Jogjakarta, KITLV 163367.tiff
+file: File:Gambar Perencanaan Candi Ciwa.jpg
+file: File:KITLV 12221 - Kassian Céphas - West side of the Shiva Temple of Prambanan near Yogyakarta - 1889-1890.tif
+file: File:KITLV 40182 - Kassian Céphas - Shiva temple of Prambanan Tjandi - 1889-1890.tif
+file: File:KITLV 40538 - Kassian Céphas - Ganesha Chapel of the Shiva temple of Prambanan Tjandi - Around 1895.jpg
+file: File:Candi Ciwa (enhanced).jpg
+file: File:KITLV 40236 - Kassian Céphas - Tjandi Prambanan - 1889-1890.jpg
+file: File:KITLV 29215 - Céphas - Shiva Temple with on the stairs photographer Kassian Céphas, Prambanan - Around 1895.tif
+file: File:Restoration of Shiva Temple at Prambanan, Daerah Istimewa Jogjakarta (1953), p851.jpg
+file: File:Prambanan Temple 2007-12-05.jpg
+file: File:Shiva Temple of Prambanan in Java Indonesia.jpg
+file: File:Yogyakarta Indonesia Prambanan-temple-complex-04.jpg
+file: File:Candi Shiva, Prambanan 1068.jpg
+file: File:Prambanan Temple Compound Map en.svg
+file: File:Prambanan Cross Section Shiva.svg
+width: 6000
+file: File:Tjandi Lara-Djonggrang te Prambanan. Doorsnede noord-zuid over het terrein met aanzicht van het geheele complex naar het westen (voorlopige constructie). - Schaal 1250, KITLV 51Z9.tif

@@ -1,0 +1,9 @@
+# Stonehenge (England): plans (Petrie 1880, Stukeley 1740, Inigo Jones 1655), oldest depictions, trilithons, aerial views, reconstructions
+width: 1000
+search: Stonehenge plan Petrie 1880
+search: Stonehenge Stukeley 1740
+search: Stonehenge Inigo Jones 1655
+search: Stonehenge Lucas de Heere
+search: Stonehenge reconstruction plan complete
+search: Stonehenge trilithon
+search: Stonehenge aerial

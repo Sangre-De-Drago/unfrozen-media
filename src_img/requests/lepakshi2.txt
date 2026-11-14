@@ -1,0 +1,15 @@
+# Lepakshi part 2: full-size photos of the hanging pillar, the hall and the Nandi
+width: 2600
+file: File:83-LepakshiPillar.jpg
+file: File:84-LepakshiPillar.jpg
+file: File:Lepakshi pillars 13.jpg
+file: File:Lepakshi pillars 8.jpg
+file: File:Veerabhadra Temple, Lepakshi (50040842456).jpg
+file: File:The hanging pillar at Lepakshi temple.JPG
+file: File:Hanging pillar.jpg
+file: File:Hanging Pillar, Veerabhadra Temple, Lepakshi, Andhra Pradesh, India (2006).jpg
+file: File:Pillars at VeerbhadraSwamy temple.jpg
+file: File:Basavannah statue at Lepakshi.JPG
+file: File:NANDI LEPAKSHI AP - panoramio.jpg
+file: File:Lepakshi pillars 20.jpg
+file: File:Pillars at the Veerabhadra Temple, Lepakshi, Andhra Pradesh, India (2010).jpg

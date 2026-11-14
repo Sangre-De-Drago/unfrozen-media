@@ -1,0 +1,13 @@
+# Halebidu part 2: full-size photos of the lathe-turned pillars, the plan of 1902, the temple
+width: 2600
+file: File:Lathe-Turned Pillar at Hoysaleshwara Temple, Halebidu, Karnataka.jpg
+file: File:Carved Pillars of Hoysaleshwara Temple, Halebidu, Karnataka.jpg
+file: File:12th-century carved pillar inside Shaivism Hindu temple Hoysaleswara arts Halebidu Karnataka India, inscription below.jpg
+file: File:Lathe turned pillar in Hoysaleshvara Temple at Halebidu.jpg
+file: File:Decorated pillars at Hoysaleshvara temple in Halebidu.jpg
+file: File:Lathe turned pillar with Parsvanatha tirtankara in background, Parsvanatha Basadi at Halebidu.jpg
+file: File:Hoysalesvara Temple-Halebid -karnataka-20151130 154742.jpg
+file: File:Halebid temple plan.jpg
+file: File:Hoysaleswara Temple at Halebidu.jpg
+file: File:Lathe-Turned Pillars of Parshvanatha Basadi, Halebidu, Karnataka.jpg
+file: File:Polished Pillars of Parshvanatha Basadi, Halebidu, Karnataka.jpg

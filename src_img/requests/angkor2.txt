@@ -1,0 +1,24 @@
+# Angkor Wat part 2: full-size views of the towers, old engravings and photographs, window balusters, plans, aerials
+width: 2600
+file: File:Angkor Wat Towers.jpg
+file: File:Cambodia 08 - 050 - Angkor Wat (3225020880).jpg
+file: File:Ayuthaya, Wat Phra Ram (6198209671).jpg
+file: File:20171128 Angkor Wat 5562 DxO.jpg
+file: File:AnkgorWatTemple.jpg
+file: File:Central Tower AngkorWat0767.jpg
+file: File:De drie torens van den tempel van Angkor-Wat.jpg
+file: File:AngkorWat Delaporte1880.jpg
+file: File:Angkor1866.jpg
+file: File:Façade Ouest de la Grande Pagode MET DP151650.jpg
+file: File:Façade Nord de la Grand Pagode MET DP151652.jpg
+file: File:The Bayon (12449840135).jpg
+file: File:The Bayon (12450002983).jpg
+file: File:Detail of the façade of the second level - Angkor Wat (6202415470).jpg
+file: File:9th century Angkor Phnom Bakheng Shiva temples complex, Cambodia.jpg
+file: File:Mouhot - Voyage dans les royaumes de Siam, de Cambodge, de Laos et autres parties centrales de l'Indo-Chine, éd. Lanoye, 1868, planche 22.jpg
+file: File:Angkor-Wat-from-the-air.JPG
+file: File:Angkor Wat Aerial View Siem Reap Cambodia 2011.jpg
+file: File:Facade of Angkor Wat.jpg
+file: File:Louis Delaporte-Angkor Vat1.jpeg
+file: File:Louis Delaporte-Angkor Vat9.JPG
+file: File:Western facade of the Temple of Ongau Wat ILN0-1868-0201-0004.jpg

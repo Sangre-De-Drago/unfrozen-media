@@ -1,0 +1,21 @@
+# Kailasa temple, part 2: old views that hit the rate limit in kailasa1, interior of the great hall (16 pillars), plans and 1876 sketches, Lankeshvara hall
+width: 1600
+file: File:S.W. view of Kailasa by Thomas Daniell and James Wales, 1803.jpg
+file: File:N.E. view of Kailasa by Thomas Daniell and James Wales,1803.jpg
+file: File:The upper part of Kailasa by Thomas Daniell and James Wales, 1803.jpg
+file: File:The upper part of Kailasa (plate 16) by Thomas Daniell and James Wales, 1803.jpg
+file: File:The Entrance to Kailasa - British Library X432-6(12).jpg
+file: File:Oriental Scenery Part 6 Fig 11.jpg
+file: File:Oriental Scenery Part 6 Fig 12.jpg
+file: File:Oriental Scenery Part 6 Fig 13.jpg
+file: File:Oriental Scenery Part 6 Fig 14.jpg
+file: File:Oriental Scenery Part 6 Fig 15.jpg
+file: File:Oriental Scenery Part 6 Fig 16.jpg
+file: File:1833-47-Front View of the Kylas Caves of Ellora.png
+file: File:Kailash temple,Ellora,1880 (1).jpg
+file: File:Marianne North (1830-1890) - In the Kylas, Ellora, India, March 1878 - MNS104 - Herbarium Complex, Royal Botanic Gardens, Kew.jpg
+width: 1200
+cat: Category:Interior of the Kailash temple (Ellora)
+cat: Category:Plans and sketches of Kailash temple (Ellora)
+search: Lankeshwar Ellora
+search: Lankesvara Ellora

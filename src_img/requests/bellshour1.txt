@@ -1,0 +1,11 @@
+# Bells hour: photos of the roses of Alcobaca, Palma, Languidou and Zica - discovery (thumbnails 480 px)
+width: 480
+search: Mosteiro de Alcobaça fachada Alvesgaspar
+search: Alcobaça Monastery facade rose window
+search: Catedral de Mallorca rosetón fachada principal
+search: Palma cathedral west front rose window Coralma
+search: Chapelle de Languidou
+search: Languidou Plovan rosace
+search: Žiča monastery rosette
+search: Манастир Жича розета
+cat: Category:Chapelle de Languidou

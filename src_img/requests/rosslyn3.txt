@@ -1,0 +1,72 @@
+# Rosslyn Chapel: pictures for the 3D model - every side at working size, pinnacle close-ups, drone views, Billings plates (1852), Slezer (1693), the plan
+width: 3000
+file: File:Roslin 3.jpg
+file: File:Roslin 4.jpg
+file: File:Roslin - Cappella di Rosslyn 01.jpg
+file: File:Back view of chapel - geograph.org.uk - 4596355.jpg
+file: File:2024-09-11 Rosslyn Chapel, Lothian Region - 02.jpg
+file: File:2024-09-11 Rosslyn Chapel, Lothian Region - 01.jpg
+file: File:2024-09-11 Rosslyn Chapel, Lothian Region - 03.jpg
+file: File:Roslin Chapel Detail 03.jpg
+file: File:Rosslyn Chapel (Mentioned in Dan Brown's DaVinci Code).jpg
+file: File:Rosslyn Chapel - geograph.org.uk - 4192384.jpg
+file: File:Rosslyn Chapel (1) - geograph.org.uk - 4826291.jpg
+file: File:Rosslyn Chapel (2) - geograph.org.uk - 4826313.jpg
+file: File:Roslin Chapel South entrance.jpg
+file: File:Roslin Rosslyn Chapel apse seen from the south.jpg
+file: File:Roslin Rosslyn Chapel window on the southern wall 2.jpg
+file: File:Roslin Rosslyn Chapel window on the southern wall 1.jpg
+file: File:Roslin Rosslyn Chapel southern portal.jpg
+file: File:Rosslyn Chapel - geograph.org.uk - 6581830.jpg
+file: File:Rosslyn Chapel - geograph.org.uk - 7133316.jpg
+file: File:Rosslyn Chapel - geograph.org.uk - 7133318.jpg
+file: File:Rosslyn Chapel - geograph.org.uk - 7341999.jpg
+file: File:Rosslyn Chapel spires.jpg
+file: File:Rosslyn Chapel outer wall.jpg
+file: File:Rosslyn Chapel scotland.jpg
+file: File:Rosslyn Chapel 101.jpg
+file: File:Rosslyn Chapel 100.jpg
+file: File:Rosslyn Chapel Exterior.jpg
+file: File:Rosslynn South 5881x3920 - 02.jpg
+file: File:Chapelle de Rosslyn 2020, DJI 0901-2.jpg
+file: File:Roslin - Cappella di Rosslyn 02.jpg
+file: File:Entrance to Rosslyn Chapel - geograph.org.uk - 3675544.jpg
+file: File:Rosslyn Chapel - geograph.org.uk - 5864318.jpg
+file: File:Rosslyn Chapel - threequarter view - geograph.org.uk - 3115679.jpg
+file: File:Rosslyn Chapel, South Face - geograph.org.uk - 5425622.jpg
+file: File:Rosslyn Chapel - geograph.org.uk - 6463347.jpg
+file: File:Roslin 1.jpg
+file: File:Roslin 2.jpg
+file: File:A Rosslyn-kápolna, a templomos lovagok, szabadkőművesek, és összeesküvésgyártók Mekkája (The Rosslyn Chapel, Mekka of the Knight Templars, Freemasons and Conspiracy Theorists) - panoramio.jpg
+file: File:RosslynChapel.jpg
+file: File:Rosslyn Flying Buttresses ca 1850.jpg
+file: File:Rosslyn Chapel North Side ca 1850.jpg
+file: File:Rosslyn Chapel - 'The Chappell of Rosslin' (5372742544).jpg
+file: File:Rosslyn Chapel plan.svg
+file: File:Large gargoyle on Rosslyn Chapel, Scotland.jpg
+file: File:Small gargoyle on Rosslyn Chapel, Scotland.jpg
+file: File:Rosslyn Chapel Gargoyle.JPG
+file: File:Rosslyn Chapel Statuary.JPG
+file: File:Roslin Chapel - geograph.org.uk - 2261881.jpg
+file: File:Roslin Chapel - geograph.org.uk - 2261883.jpg
+file: File:Roslin Chapel - geograph.org.uk - 2261884.jpg
+file: File:Roslin Chapel - geograph.org.uk - 2263265.jpg
+file: File:Roslin Chapel - geograph.org.uk - 2263271.jpg
+file: File:Roslin Chapel - geograph.org.uk - 2263278.jpg
+file: File:East Aspect of Rosslyn Chapel - geograph.org.uk - 3738637.jpg
+file: File:Rosslyn Chapel - geograph.org.uk - 909937.jpg
+file: File:Rosslyn Chapel - geograph.org.uk - 5425539.jpg
+file: File:Rosslyn Chapel - geograph.org.uk - 6297717.jpg
+file: File:View of Rosslyn Chapel - geograph.org.uk - 3738488.jpg
+file: File:Roslin Rosslyn Chapel Wall north of the western portal.jpg
+file: File:Rosslyn Chapel - viewed over perimeter wall - geograph.org.uk - 3116859.jpg
+width: 480
+search: Rosslyn Chapel pinnacle
+search: Rosslyn Chapel buttress
+search: Rosslyn Chapel flying buttress
+search: Rosslyn Chapel roof
+search: Rosslyn Chapel north side
+search: Rosslyn Chapel east end
+search: Roslin Chapel exterior 19th century photograph
+search: Rosslyn Chapel aerial
+search: Roslin Chapel Billings Baronial

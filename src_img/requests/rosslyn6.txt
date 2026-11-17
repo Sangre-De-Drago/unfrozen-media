@@ -1,0 +1,11 @@
+# Rosslyn Chapel: the Apprentice Pillar - larger copies for measuring the spiral bands (reel 5)
+width: 3000
+file: File:Roslin Chapel interior (40541700555).jpg
+file: File:RoslinChapelAppColJM.jpg
+file: File:Rosslyn Chapel 20061213 Apprentice Pillar.jpg
+file: File:Rosslyn Chapel Apprentice Pillar.jpg
+file: File:The apprentice pillar, Roslin Chapel, (Scotland) (14544046297).jpg
+file: File:Roslin Chapel 'Prentice Pillar, RP-F-F25412-R.jpg
+file: File:Rosslyn Chapel - Apprentice Pillar - geograph.org.uk - 6463344.jpg
+file: File:The Prentice Pillar, Roslin Chapel (BM 1863,0214.1472).jpg
+file: File:WLA vanda Column from St Matthews Chapel.jpg

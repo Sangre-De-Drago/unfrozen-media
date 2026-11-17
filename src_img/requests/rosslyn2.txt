@@ -1,0 +1,12 @@
+# Rosslyn Chapel: larger copies of the key pictures - baptistery round window, V&A cast with the cubes, Lady Chapel ceiling 1865, Apprentice Pillar, south side
+width: 3000
+file: File:Rosslyn Chapel - Baptistry and West Front - geograph.org.uk - 3116864.jpg
+file: File:Rosslyn Chapel - geograph.org.uk - 6594746.jpg
+file: File:Rosslyn Chapel Baptistry - geograph.org.uk - 5425672.jpg
+file: File:V&A Cast of Rosslyn Chapel Apprentice Pillar (14967336616).jpg
+file: File:V&A Cast of Rosslyn Chapel (14987225941).jpg
+file: File:V&A Cast of Rosslyn Chapel Apprentice Pillar (14987227791).jpg
+file: File:Rosslyn Chapel, Ceiling of Lady Chapel (3611515020).jpg
+file: File:Rosslyn Chapel, The Apprentice Pillar (3611600998).jpg
+file: File:Roslin Rosslyn Chapel seen from the south.jpg
+file: File:Roslin Chapel interior (40541700555).jpg

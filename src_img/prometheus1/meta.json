@@ -1,0 +1,32 @@
+{
+ "meta": [
+  {
+   "title": "File:Fife Creek - January 2023 - Sarah Stierch.webm",
+   "mime": "video/webm",
+   "duration": 13.283,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Fife_Creek_-_January_2023_-_Sarah_Stierch.webm/500px--Fife_Creek_-_January_2023_-_Sarah_Stierch.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Fife_Creek_-_January_2023_-_Sarah_Stierch.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "w": 3840,
+   "h": 2160,
+   "page": "https://commons.wikimedia.org/wiki/File:Fife_Creek_-_January_2023_-_Sarah_Stierch.webm",
+   "license": "CC BY 4.0",
+   "artist": "Missvain",
+   "credit": "Own work",
+   "date": "Taken on 2 January 2023",
+   "desc": "Fife Creek in Armstrong Woods State Natural Reserve",
+   "width_req": 480,
+   "from": "video: File:Fife Creek - January 2023 - Sarah Stierch.webm | 0-13",
+   "file": "000_Fife_Creek_-_January_2023_-_Sarah_Stierch.jpg"
+  }
+ ],
+ "categories": {},
+ "clips": [
+  {
+   "title": "File:Fife Creek - January 2023 - Sarah Stierch.webm",
+   "clip": "v000_Fife_Creek_-_January_2023_-_Sarah_Stierch_0-13.mp4",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5a/Fife_Creek_-_January_2023_-_Sarah_Stierch.webm/Fife_Creek_-_January_2023_-_Sarah_Stierch.webm.1080p.vp9.webm",
+   "range": "0-13",
+   "from": "video: File:Fife Creek - January 2023 - Sarah Stierch.webm | 0-13"
+  }
+ ]
+}
